@@ -1,0 +1,124 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(198,17,238);
+    background: linear-gradient(90deg, rgba(198,17,238,1) 20%, rgba(221,92,242,1) 53%, rgba(237,140,202,1) 74%);
+}
+th{
+    background: black;
+}
+.main{
+    background: black;
+}
+.charecters{
+    text-align: center;
+}
+.charecters:hover{
+    color: yellow;
+}
+table{
+    color: white;
+}
+.class{
+    width: 20px;
+}
+.image{
+    width: 1300px;
+    background-color: black;
+}
+.abilities{
+    width: 8600px;
+}
+.tname{
+    height: 100px;
+}
+.Raze{
+    padding-top: 60px;
+    background: orange;
+}
+.duelistraze{
+    background: orange;
+    padding-top: 60px;
+    padding-left: 30px;
+}
+.descraze{
+    background:orange
+}
+.Yoru{
+    background:lightgreen
+
+}
+.duelistyoru{
+    padding-left: 30px;
+    background:lightgreen
+}
+.desc_yoru{
+    background:lightgreen
+}
+.Reyna{
+    background:aqua
+
+}
+.desc_reyna{
+    background:aqua
+
+}
+.duelistreyna{
+    margin-left: 60px;
+    background:aqua
+}
+.Jett{
+    background:Gold;
+}
+.duelist_jett{
+    background:Gold;
+}
+.desc_jett{
+    background:Gold;
+}
+.Cypher{
+    background: hotpink;
+}
+.descraze{
+    padding-top: 60px;
+}
+.imgraze{
+    margin-left: 120px;
+    background:orange
+}
+.imgyoru{
+    margin-left: 110px;
+    background:lightgreen
+
+}
+.imgreyna{
+    margin-left: 70px;
+    background:aqua
+
+}
+.imgjett{
+    margin-left: 90px;
+    background:Gold;
+}
+.imgcypher{
+    margin-left: 70px;
+    background: hotpink;
+}
+.imgsage{
+    margin-left: 45px;
+    background: MediumTurquoise;
+}
+.Sentinels_cypher{
+    background: hotpink;
+}
+.desc_cypher{
+    background: hotpink;
+}
+.Sage{
+    background: MediumTurquoise;
+}
+.Sentinels_Sage{
+    background: MediumTurquoise;
+}
+.desc_sage{
+    background: MediumTurquoise;
+}
